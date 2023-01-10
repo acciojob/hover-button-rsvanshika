@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+#butn
+{
+	border:none;
+	background-color:black;
+	color:white;
+	border-radius: 5px;
+}
+#butn:hover{
+	background-color: yellow;
+	color: black;
+	border-radius: 30px;
+}
+
+
+	
+}
